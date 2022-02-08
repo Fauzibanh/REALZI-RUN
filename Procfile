@@ -1,1 +1,1 @@
-worker: npm i -g typescript && npm i github:adiwajshing/keyed-db && node .
+worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@3.5.3 && npm start
